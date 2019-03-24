@@ -1,3 +1,3 @@
-# react-minimal template
+# Weekend acme-users
 - npm install
 - npm run start:dev
